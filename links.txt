@@ -1,8 +1,1 @@
 https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/DIRECT/China.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/DIRECT/Microsoft.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/DIRECT/Apple.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/GFW.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/Google.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/Bing.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/OpenAI.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/REJECT/ADBlock.yaml
