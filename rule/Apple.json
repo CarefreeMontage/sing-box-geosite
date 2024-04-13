@@ -2,33 +2,7 @@
   "rules": [
     {
       "domain": [
-        "aaplimg.com",
-        "akadns.net",
-        "apple-cloudkit.com",
-        "apple-dns.net",
-        "apple-icloud.cn",
-        "apple-mapkit.com",
-        "apple.co",
-        "apple.com",
-        "apple.com.cn",
-        "apple.comscoreresearch.com",
-        "apple.news",
-        "appstore.com",
-        "cdn-apple.com",
-        "crashlytics.com",
-        "icloud-content.com",
-        "icloud.com",
-        "icloud.com.cn",
-        "icloudhome.com",
-        "icloudmail.net",
-        "icloudmusic.net",
-        "icloudnet.net",
-        "icloudo.com",
-        "ios-icloud.com",
-        "itunes.com",
-        "me.com",
-        "myicloud.net",
-        "mzstatic.com"
+        "apple.comscoreresearch.com"
       ]
     },
     {
