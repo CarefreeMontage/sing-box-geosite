@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/cn.yaml
 https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/DIRECT/Microsoft.yaml
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/DIRECT/Apple.yam
+https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/DIRECT/Apple.yaml
 https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/GFW.yaml
 https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/Google.yaml
 https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/Clash/PROXY/Bing.yaml
