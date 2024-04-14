@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/cn.yaml
+https://raw.githubusercontent.com/CarefreeMontage/proxyrules-cm/main/QuantumultX/PROXY/Netflix.yaml
